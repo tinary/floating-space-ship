@@ -1,9 +1,7 @@
 # Interactive creative coding
 I made projects using p5.js libraries.
 
-```javascript
-sketchSpaceship.js
-```
+`sketchSpaceship.js`
 Using simple math to create shapes and animations to make a floating spaceship.
 
 ```javascript
