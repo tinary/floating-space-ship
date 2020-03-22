@@ -1,10 +1,14 @@
 # Interactive creative coding
 I made projects using p5.js libraries.
 
-## sketchSpaceship.js
+```javascript
+sketchSpaceship.js
+```
 Using simple math to create shapes and animations to make a floating spaceship.
 
-## sketchFlashingStars.js
+```javascript
+sketchFlashingStars.js
+```
 Using simple math to create shapes and integrating mouse click to add that interactive drawing. 
 
 # How to run the code
