@@ -1,4 +1,4 @@
-# Interactive reative coding
+# Interactive creative coding
 I made projects using p5.js libraries.
 
 ## sketchSpaceship.js
